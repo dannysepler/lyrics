@@ -1,0 +1,49 @@
+{
+    "data": {
+        "words": {
+            "i": 8,
+            "like": 8,
+            "you": 5,
+            "it": 4,
+            "that": 4,
+            "am": 3,
+            "to": 3,
+            "t": 2,
+            "my": 2,
+            "could": 2,
+            "lie": 2,
+            "say": 2,
+            "don": 1,
+            "know": 1,
+            "no": 1,
+            "good": 1,
+            "for": 1,
+            "have": 1,
+            "learned": 1,
+            "lose": 1,
+            "can": 1,
+            "afford": 1,
+            "tore": 1,
+            "shirt": 1,
+            "stop": 1,
+            "bleeding": 1,
+            "but": 1,
+            "nothin": 1,
+            "ever": 1,
+            "stops": 1,
+            "leaving": 1,
+            "quiet": 1,
+            "when": 1,
+            "coming": 1,
+            "home": 1,
+            "and": 1,
+            "on": 1,
+            "own": 1
+        },
+        "analysis": {
+            "total_words": 71,
+            "unique_words": 38,
+            "percent_unique": "53.52%"
+        }
+    }
+}

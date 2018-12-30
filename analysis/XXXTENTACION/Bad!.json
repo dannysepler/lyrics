@@ -1,0 +1,38 @@
+{
+    "data": {
+        "words": {
+            "bad": 4,
+            "word": 4,
+            "you": 3,
+            "shawty": 2,
+            "heard": 2,
+            "so": 2,
+            "profane": 2,
+            "something": 2,
+            "like": 2,
+            "a": 2,
+            "want": 2,
+            "your": 2,
+            "love": 2,
+            "going": 2,
+            "yeah": 1,
+            "call": 1,
+            "me": 1,
+            "when": 1,
+            "can": 1,
+            "girl": 1,
+            "up": 1,
+            "down": 1,
+            "in": 1,
+            "and": 1,
+            "out": 1,
+            "turn": 1,
+            "around": 1
+        },
+        "analysis": {
+            "total_words": 46,
+            "unique_words": 27,
+            "percent_unique": "58.7%"
+        }
+    }
+}

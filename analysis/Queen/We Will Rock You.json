@@ -1,0 +1,45 @@
+{
+    "data": {
+        "words": {
+            "you": 6,
+            "a": 4,
+            "we": 4,
+            "will": 4,
+            "big": 3,
+            "man": 3,
+            "buddy": 2,
+            "re": 2,
+            "the": 2,
+            "your": 2,
+            "rock": 2,
+            "boy": 1,
+            "make": 1,
+            "noise": 1,
+            "playing": 1,
+            "in": 1,
+            "street": 1,
+            "gonna": 1,
+            "be": 1,
+            "some": 1,
+            "day": 1,
+            "got": 1,
+            "mud": 1,
+            "on": 1,
+            "face": 1,
+            "disgrace": 1,
+            "kickin": 1,
+            "can": 1,
+            "all": 1,
+            "over": 1,
+            "place": 1,
+            "singin": 1,
+            "young": 1,
+            "hard": 1
+        },
+        "analysis": {
+            "total_words": 57,
+            "unique_words": 34,
+            "percent_unique": "59.65%"
+        }
+    }
+}

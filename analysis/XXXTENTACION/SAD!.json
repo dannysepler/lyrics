@@ -1,0 +1,50 @@
+{
+    "data": {
+        "words": {
+            "i": 10,
+            "am": 6,
+            "let": 6,
+            "you": 6,
+            "yeah": 6,
+            "to": 4,
+            "go": 4,
+            "uh": 4,
+            "if": 4,
+            "ever": 4,
+            "know": 4,
+            "sad": 4,
+            "me": 3,
+            "and": 3,
+            "who": 2,
+            "someone": 2,
+            "that": 2,
+            "is": 2,
+            "afraid": 2,
+            "decide": 2,
+            "re": 2,
+            "gonna": 2,
+            "suicide": 2,
+            "try": 2,
+            "low": 2,
+            "heart": 2,
+            "gave": 1,
+            "her": 1,
+            "everything": 1,
+            "she": 1,
+            "took": 1,
+            "my": 1,
+            "left": 1,
+            "lonely": 1,
+            "have": 1,
+            "been": 1,
+            "broken": 1,
+            "s": 1,
+            "contentious": 1
+        },
+        "analysis": {
+            "total_words": 105,
+            "unique_words": 39,
+            "percent_unique": "37.14%"
+        }
+    }
+}

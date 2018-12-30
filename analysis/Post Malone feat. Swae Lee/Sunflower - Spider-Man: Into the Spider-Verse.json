@@ -1,0 +1,48 @@
+{
+    "data": {
+        "words": {
+            "ayy": 6,
+            "ooh": 6,
+            "wreck": 6,
+            "bad": 5,
+            "a": 5,
+            "i": 4,
+            "baby": 4,
+            "in": 3,
+            "am": 3,
+            "ohh": 2,
+            "needless": 2,
+            "to": 2,
+            "say": 2,
+            "her": 2,
+            "check": 2,
+            "she": 2,
+            "was": 2,
+            "all": 2,
+            "nevertheless": 2,
+            "callin": 2,
+            "it": 2,
+            "quits": 2,
+            "now": 2,
+            "crash": 2,
+            "at": 2,
+            "my": 2,
+            "place": 2,
+            "you": 2,
+            "re": 2,
+            "keep": 1,
+            "yeah": 1,
+            "keeping": 1,
+            "thinkin": 1,
+            "way": 1,
+            "losin": 1,
+            "your": 1,
+            "grip": 1
+        },
+        "analysis": {
+            "total_words": 90,
+            "unique_words": 37,
+            "percent_unique": "41.11%"
+        }
+    }
+}

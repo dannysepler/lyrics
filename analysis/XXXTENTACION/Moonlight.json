@@ -1,0 +1,35 @@
+{
+    "data": {
+        "words": {
+            "moonlight": 7,
+            "uh": 6,
+            "spotlight": 4,
+            "nigga": 3,
+            "why": 3,
+            "you": 3,
+            "trippin": 3,
+            "get": 3,
+            "your": 3,
+            "mood": 3,
+            "right": 3,
+            "shawty": 3,
+            "look": 3,
+            "good": 3,
+            "in": 3,
+            "the": 3,
+            "all": 3,
+            "these": 3,
+            "pussy": 3,
+            "niggas": 3,
+            "so": 3,
+            "bad": 3,
+            "mind": 3,
+            "yeah": 1
+        },
+        "analysis": {
+            "total_words": 78,
+            "unique_words": 24,
+            "percent_unique": "30.77%"
+        }
+    }
+}

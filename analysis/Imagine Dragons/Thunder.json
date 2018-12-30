@@ -1,0 +1,53 @@
+{
+    "data": {
+        "words": {
+            "thunder": 21,
+            "the": 8,
+            "a": 6,
+            "thun": 6,
+            "i": 3,
+            "was": 3,
+            "and": 3,
+            "lightning": 3,
+            "wanna": 2,
+            "not": 2,
+            "fit": 2,
+            "feel": 2,
+            "just": 1,
+            "young": 1,
+            "gun": 1,
+            "with": 1,
+            "quick": 1,
+            "fuse": 1,
+            "uptight": 1,
+            "let": 1,
+            "loose": 1,
+            "dreaming": 1,
+            "of": 1,
+            "bigger": 1,
+            "things": 1,
+            "leave": 1,
+            "my": 1,
+            "own": 1,
+            "life": 1,
+            "behind": 1,
+            "yes": 1,
+            "sir": 1,
+            "follower": 1,
+            "box": 1,
+            "mold": 1,
+            "have": 1,
+            "seat": 1,
+            "in": 1,
+            "foyer": 1,
+            "take": 1,
+            "number": 1,
+            "before": 1
+        },
+        "analysis": {
+            "total_words": 91,
+            "unique_words": 42,
+            "percent_unique": "46.15%"
+        }
+    }
+}
